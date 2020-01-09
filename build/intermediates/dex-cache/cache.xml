@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\22sulwes\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="Z:\22sulwes\CSA\GIT\Activity_1.2.7_Multiple_Activities_and_Intents\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e5f7a2005f4f50d29ca08856681ed48e980026cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22sulwes\.android\build-cache\d8f05068380d61303cbe82ac596dd3a769e270ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="Z:\22sulwes\CSA\GIT\Activity_1.2.7_Multiple_Activities_and_Intents\app\build\intermediates\pre-dexed\debug\classes_33a8bb917f0cbd2c38b6cdf1f801bae0717f13b3.jar" />
+    </item>
+
+</items>
